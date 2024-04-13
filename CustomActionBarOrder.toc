@@ -1,4 +1,4 @@
-## Interface: <Wow Interface Version>
+## Interface: 100206
 ## Title: CustomActionBarOrder
 ## Author: srliao
 ## Version: 0.1
